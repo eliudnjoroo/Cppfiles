@@ -2,6 +2,7 @@
 #include <iostream>
 using namespace std;
 int main(){
+    
     char gender;
     int age, salary;
     cout<<"enter your gender:"<<endl;
